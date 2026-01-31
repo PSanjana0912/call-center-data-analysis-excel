@@ -6,7 +6,7 @@ An interactive dashboard was created to track call volume, revenue,
 customer ratings, and call trends.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ## 🛠 Tools & Skills Used
 - Microsoft Excel
