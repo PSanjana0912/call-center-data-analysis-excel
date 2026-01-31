@@ -7,7 +7,7 @@ customer ratings, and call trends.
 
 ## 📊 Dashboard Preview
 ![Dashboard Preview](dashboard_preview.png.png)
-(dashboard_preview(1).png.png)
+![Dashboard Preview](dashboard_preview(1).png.png)
 
 ## 🛠 Tools & Skills Used
 - Microsoft Excel
